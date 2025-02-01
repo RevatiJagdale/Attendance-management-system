@@ -1,4 +1,4 @@
-This project is an Attendance Management System designed to track and manage attendance records for students and faculty in an educational institution.
+This project is an Attendance Management System designed to track and manage attendance records for students and faculty using PHP, MySQL, HTML, CSS, JS and AJAX
 
 Features:
 
