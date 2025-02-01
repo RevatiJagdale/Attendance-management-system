@@ -11,4 +11,5 @@ Attendance Reports: Generate attendance reports based on date, student, or class
 PHP for Backend Logic
 Frontend: React.js / HTML, CSS
 JavaScript & AJAX for User comfort
+
 Report and Analytics using PHP and MySQL
